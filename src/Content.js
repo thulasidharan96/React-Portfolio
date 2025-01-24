@@ -16,7 +16,7 @@ import services_logo3 from "./assets/images/Services/logo3.png";
 
 import project1 from "./assets/images/Projects/img1.png";
 import project2 from "./assets/images/projects/img2.png";
-import project3 from "./assets/images/projects/img3.png";
+import project3 from "./assets/images/Projects/img3.png";
 import person_project from "./assets/images/projects/person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
